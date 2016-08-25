@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					790134CE1D6E91DD0067675A = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 5SBW7AT5HT;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5SBW7AT5HT;
 				INFOPLIST_FILE = "Swifty Words/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ethan.Swifty-Words";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5SBW7AT5HT;
 				INFOPLIST_FILE = "Swifty Words/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ethan.Swifty-Words";
